@@ -1,3 +1,4 @@
+最完美的javascript api 实例网站，没有之一 
 JavaScripture
 =============
 [JavaScripture.com](http://www.javascripture.com) is designed to be
